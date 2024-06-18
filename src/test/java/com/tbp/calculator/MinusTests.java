@@ -11,7 +11,7 @@ public class MinusTests {
         int first = 3;
         int second = 1;
 
-        int result = new Minus().minus(3,1);
+        int result = new Minus().minus(first, second);
 
         Assertions.assertEquals(2, result);
     }
