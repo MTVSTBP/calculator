@@ -19,7 +19,7 @@ public class MultipliorTests {
     }
 
     @Test
-    @DisplayName("1과 2를 곱한 결과가 2인지 확인")
+    @DisplayName("2과 3을 곱한 결과가 2인지 확인")
     public void testMul2() {
         //given
         int a = 2;

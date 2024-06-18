@@ -17,7 +17,7 @@ public class ModTests {
         //then (verify) 값의 검증
         Assertions.assertEquals(1, result);
     }
-    @Testd
+    @Test
     @DisplayName("2147483647을 2로 나눈 나머지 테스트")
     public void ModTest2() {
         int first = 2147483647;
