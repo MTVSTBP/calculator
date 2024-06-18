@@ -1,4 +1,4 @@
 package com.tbp.calculator;
 
-public class Adder {
+public class MultipliorTests {
 }
